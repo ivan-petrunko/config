@@ -1,4 +1,5 @@
 syntax enable
+set backspace=indent,eol,start
 set t_Co=256
 set nu
 set nocompatible
