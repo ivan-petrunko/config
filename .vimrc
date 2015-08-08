@@ -1,4 +1,7 @@
+execute pathogen#infect()
 syntax enable
+filetype plugin indent on
+
 set backspace=indent,eol,start
 set t_Co=256
 set nu
@@ -15,4 +18,11 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+" vim-airline plugin
+set laststatus=2 " enable plugin
+let g:airline_powerline_fonts=1 " use extra fonts from powerline plugin
+
+" NERDTree plugin
+map <C-n> :NERDTreeToggle<CR> " set key mapping
 
