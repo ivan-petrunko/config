@@ -1,3 +1,4 @@
 parts.japancar.ru##.special-container
 parts.japancar.ru##.special-offers
+kinogo.club##noindex
 
