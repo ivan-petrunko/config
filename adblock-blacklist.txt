@@ -1,5 +1,8 @@
-parts.japancar.ru##.special-container
-parts.japancar.ru##.special-offers
 kinogo.club##noindex
 3torrent.org##.hban
+parts.japancar.ru##.special-offers
+parts.japancar.ru##.special-container
+player.radioultra.ru/js/cookie_check.js
+tesla.r.acdnpro.com
+kingoablc.com/*.php
 
