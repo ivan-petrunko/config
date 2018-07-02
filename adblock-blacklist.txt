@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Checksum: 8398202708ac36a0c00297a9b4624054
+! Version: 20180702
+! Title: My Adblock Filters
+! Expires: 20 days
+
 kinogo.club##noindex
 3torrent.org##.hban
 parts.japancar.ru##.special-offers
